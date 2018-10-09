@@ -50,7 +50,7 @@ class FamilyTests : XCTestCase {
     let familyIncome = family.householdIncome()
     XCTAssert(familyIncome == 1000)
   }
-  
+
   func testFamilyWithKids() {
     let ted = Person(firstName: "Ted", lastName: "Neward", age: 45)
     ted.job = Job(title: "Gues Lecturer", type: Job.JobType.Salary(1000))
@@ -69,5 +69,5 @@ class FamilyTests : XCTestCase {
     let familyIncome = family.householdIncome()
     XCTAssert(familyIncome == 12000)
   }
-  
+
 }

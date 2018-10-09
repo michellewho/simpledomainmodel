@@ -143,10 +143,12 @@
 				TargetAttributes = {
 					FE6891131CB5D8E40018C340 = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = 4LCVCMUP5V;
 						LastSwiftMigration = 0800;
 					};
 					FE6891211CB5D90B0018C340 = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = 4LCVCMUP5V;
 						LastSwiftMigration = 0800;
 					};
 				};
@@ -293,6 +295,7 @@
 		FE68911C1CB5D8E40018C340 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = 4LCVCMUP5V;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -301,6 +304,7 @@
 		FE68911D1CB5D8E40018C340 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = 4LCVCMUP5V;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -310,6 +314,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 4LCVCMUP5V;
 				INFOPLIST_FILE = SimpleDomainModelTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.uw.ischool.SimpleDomainModelTests;
@@ -322,6 +327,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 4LCVCMUP5V;
 				INFOPLIST_FILE = SimpleDomainModelTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.uw.ischool.SimpleDomainModelTests;
